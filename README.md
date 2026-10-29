@@ -3,6 +3,7 @@
 A simple and interactive **Quiz Application** built with **React.js** using the **useReducer Hook** for state management. The application allows users to answer questions, track progress, view scores, and manage quiz data using **json-server**.
 
 ## 🚀 Live Demo
+link
 
 🔗 **Live Link:** Add your project link here
 
